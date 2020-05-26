@@ -29,6 +29,12 @@ h3{
   top: 50px;
 }
 
+.low-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 0;
+}
+
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
@@ -50,11 +56,7 @@ h3{
   float: left;
   padding-right: 30px;
 }
-.low-cloud{
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
+
 .middle-container{
 
 }
